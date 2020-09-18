@@ -44,10 +44,9 @@ git checkout YOUR_BRANCH_NAME
 
 #### Step 4
 - In your  file manager/terminal navigate to the downloaded repo.
-- Open the sub-directory src/profiles/ and create a new .md filewith your username as the filename with .md extension.
-- It should look like YOUR_USER_NAME.md eg: smilegupta.md
-- Open this file in your favourite editor and fill the details as below in the frontmatter of the markdown file.
-
+- Open the sub-directory src/profiles/ and create a new .md filewith your favourite list as the filename with .md extension.
+- It should look like Your_fav_lsit.md eg: movies.md
+- Open this file in your favourite editor and fill the details according to your interest.
 
 #### Step 5
 - Commit the changes with a suitable commit message.

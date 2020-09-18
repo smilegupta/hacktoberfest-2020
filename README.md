@@ -4,6 +4,10 @@
 
 #### Let's help you submit your first Pull Request. 
 
+#### IF you are a total beginner have a look on these [slides](https://drive.google.com/file/d/1ynHcJqYTZjK4_Duf-Gc4vaXO8YQgtey9/view?usp=sharing) for getting started
+
+#### Else Follow the below steps! To make your first contribution in this Pandemic vala Hacktober
+
 #### Step 1
 - Goto the GitHub repository of this project and fork the project to your account 
 - Click on the fork button on the top right corner of the repository page to do it.
